@@ -37,12 +37,7 @@ Assets/
 　　└── CharacterBubbleCanvas.prefab		# キャラクター頭上の吹き出し ← **追加**
 ```
 
-## 🐛 トラブルシューティング
-
-### Unity側の問題
-
-**Q: バックエンドに接続できない**
-X-API-Key設定を確認してください
+実行時は、X-API-Key設定を適切な値に変更してください
 X-API-Key: your-secret-key
 
 ---
